@@ -21,6 +21,7 @@ Este projeto faz parte do módulo:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/bamarcheti/js-arrays
+   cd js-arrays
    npm install
 
 ## **💛 Contato**
